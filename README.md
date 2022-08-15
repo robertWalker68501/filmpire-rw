@@ -38,8 +38,9 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Material UI
+- React
 - React Router
+- Material UI
 
 ### What I learned
 
